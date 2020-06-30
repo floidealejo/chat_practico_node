@@ -1,0 +1,11 @@
+{
+  "name": "chat_practico_node",
+  "version": "1.0.0",
+  "description": "This a project when created the complete backend for PlatziSocial using microservices.",
+  "main": "index.js",
+  "author": "Alejandro Upegui Betancur.",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
